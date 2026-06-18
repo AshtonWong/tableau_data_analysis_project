@@ -1,5 +1,14 @@
 # pm10-social-media-analysis
 
+## Repository Contents
+
+| File                                                           | Description                                                                                                                                                 |
+| -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Analysis Findings Presentation.pptx**                        | Presentation deck summarizing the analytical approach, key findings, insights, and recommendations derived from the PM10 social media and news dataset.     |
+| **PM10 Corporate Insights_ Social Media & News Analysis.twbx** | Tableau workbook containing the interactive dashboard used to explore conversation trends, sentiment analysis, influencer engagement, and hashtag activity. |
+| **Tableau Dashboard image.png**                                | Dashboard preview image providing a high-level overview of the final visualization and analytical outputs.                                                  |
+
+
 # PM10 Social Media & News Analysis
 
 ## Overview
