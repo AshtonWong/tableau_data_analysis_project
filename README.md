@@ -42,3 +42,16 @@ Measured the overall reach and participation level of the discussion.
 ### 6) What were the most commonly used hashtags?
 
 Analyzed hashtag frequency to understand key discussion themes.
+
+## Key Findings
+
+- Twitter was the primary source of discussion.
+- Most public sentiment was neutral.
+- Positive sentiment slightly exceeded negative sentiment.
+- 8,444 unique users discussed the issue.
+- Discussions were spread across 67 sources.
+- Syed Saddiq generated the highest engagement.
+
+## Recommendation
+
+Organizations and stakeholders should closely monitor emerging Twitter conversations, as Twitter may provide early indicators of public sentiment shifts and public reaction trends.
